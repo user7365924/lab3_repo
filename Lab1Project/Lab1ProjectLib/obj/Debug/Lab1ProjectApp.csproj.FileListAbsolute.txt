@@ -1,0 +1,5 @@
+C:\work\vk_8labs\lab2\Lab1Project\Lab1ProjectLib\bin\Debug\Lab1ProjectApp.exe
+C:\work\vk_8labs\lab2\Lab1Project\Lab1ProjectLib\bin\Debug\Lab1ProjectApp.pdb
+C:\work\vk_8labs\lab2\Lab1Project\Lab1ProjectLib\obj\Debug\Lab1ProjectApp.exe
+C:\work\vk_8labs\lab2\Lab1Project\Lab1ProjectLib\obj\Debug\Lab1ProjectApp.pdb
+C:\work\vk_8labs\lab2\Lab1Project\Lab1ProjectLib\obj\Debug\Lab1ProjectApp.csprojResolveAssemblyReference.cache
