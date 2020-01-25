@@ -176,7 +176,9 @@ public class MainForm : Form
 
     private void listBox_SelectedIndexChanged(object sender, System.EventArgs e)
     {
-        int index = listBox.SelectedIndex;
+        int index = 0;
+
+	index = listBox.SelectedIndex;
 
         if (index >= 0)
         {
