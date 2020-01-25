@@ -12,7 +12,7 @@ using System.Text;
 public class UserEvent
 {
 	private string text;
-    private string dateTime;
+	private string dateTime;
 	private int level;
 
     public UserEvent(string text, string dateTime, int level)
@@ -38,7 +38,11 @@ public class UserEvent
 
     public string ToString()
     {
-        string s = this.dateTime + "|" + this.text + "|" + this.level.ToString();
+        string s = this.dateTime;
+	s += "|";
+	s += this.text;
+	s += "|";
+	s += this.level.ToString();
         return s;
     }
 }
